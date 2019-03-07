@@ -1,5 +1,5 @@
 ==============================================================================
-The LLVM Project is under the Apache License v2.0 with LLVM Exceptions:
+https://github.com/llvm-mirror/clang/pull/59:
 ==============================================================================
 
                                  Apache License
